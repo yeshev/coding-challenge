@@ -14,6 +14,7 @@
       "rules": {
         "react/require-default-props": "off",
         "no-unused-vars": "off",
+        "no-undef": "error",
         "@typescript-eslint/no-unused-vars": "error",
         "no-param-reassign": "off",
         "no-console": "warn",
